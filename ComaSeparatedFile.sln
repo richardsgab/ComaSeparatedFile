@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComaSeparatedFile", "ComaSeparatedFile\ComaSeparatedFile.csproj", "{B677DCA1-3B3B-4ECF-8C54-8D1728D62CE0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsF", "WindowsF\WindowsF.csproj", "{083673D9-8485-4706-A001-53E38563A618}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B677DCA1-3B3B-4ECF-8C54-8D1728D62CE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B677DCA1-3B3B-4ECF-8C54-8D1728D62CE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B677DCA1-3B3B-4ECF-8C54-8D1728D62CE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B677DCA1-3B3B-4ECF-8C54-8D1728D62CE0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{083673D9-8485-4706-A001-53E38563A618}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{083673D9-8485-4706-A001-53E38563A618}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{083673D9-8485-4706-A001-53E38563A618}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{083673D9-8485-4706-A001-53E38563A618}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {80F6FE20-9CAD-4731-B7F1-A5FBE3A5F7F1}
+	EndGlobalSection
+EndGlobal
